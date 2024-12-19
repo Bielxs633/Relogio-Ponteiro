@@ -1,4 +1,3 @@
-https://www.youtube.com/watch?app=desktop&v=weZFfrjF-k4
 # Relogio de Ponteiro
 
 [Gabriel Soares](https://www.linkedin.com/in/gabriel-soares-3098782b0/)
