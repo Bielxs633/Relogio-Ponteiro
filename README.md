@@ -12,14 +12,15 @@ Este projeto é um **Relógio Analógico**. A aplicação exibe um relógio esti
 ---
 
 ## Funcionalidades
-- Exibição de um relógio analógico funcional.
-- Atualização em tempo real.
-- Design Simples e Limpo: Layout minimalista para fácil leitura.
+1. Exibição de um relógio analógico funcional.
+2. Atualização em tempo real.
+3. Design Simples e Limpo: Layout minimalista para fácil leitura.
 
 ---
 
 ## Tecnologias utilizadas
-1. HTML
-2. CSS
-3. JavaScript
-4. Git
+- **HTML**
+- **CSS**
+- **JavaScript**
+- **Markdown**
+- **Git**
